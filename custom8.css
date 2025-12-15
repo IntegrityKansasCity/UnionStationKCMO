@@ -1,12 +1,6 @@
 /* Override Wufoo fixed container width */
 #container {
-  width: 97% !important;
+  width: 98% !important;
   max-width: 100% !important;
   margin: 0 auto !important;
-}
-/* Center logo at top */
-#logo {
-  text-align: center !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
 }
