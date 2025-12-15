@@ -1,6 +1,6 @@
 /* Override Wufoo fixed container width */
 #container {
-  width: 95% !important;
+  width: 97% !important;
   max-width: 100% !important;
   margin: 0 auto !important;
 }
@@ -19,9 +19,4 @@
 /* FLOAT FIX */
 #logo {
   float: none !important;
-}
-/* Add Spacing + Clean Look */
-#logo {
-  margin-top: 10px;
-  margin-bottom: 20px;
 }
