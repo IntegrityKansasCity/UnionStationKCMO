@@ -10,13 +10,3 @@
   margin-left: auto !important;
   margin-right: auto !important;
 }
-
-/* Center logo link itself */
-#logo a {
-  display: inline-block !important;
-  float: none !important;
-}
-/* FLOAT FIX */
-#logo {
-  float: none !important;
-}
